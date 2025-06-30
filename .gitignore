@@ -1,0 +1,26 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Documentation build output
+docs/.docc-build/
+
+# SwiftPM logs
+.swiftpm/xcode/package.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# User-specific configuration
+.idea/
+*.swp
+*.swo
+
+# Editor backups
+*~
