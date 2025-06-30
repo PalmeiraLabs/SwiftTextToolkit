@@ -1,7 +1,6 @@
 # SwiftTextToolkit
 
 [![Tests](https://github.com/PalmeiraLabs/SwiftTextToolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/PalmeiraLabs/SwiftTextToolkit/actions/workflows/tests.yml)
-[📘 View Documentation](https://palmeiralabs.github.io/SwiftTextToolkit/)
 
 **SwiftTextToolkit** is a lightweight and modular Swift package that provides utilities for working with text in iOS and other Swift-based platforms. It includes tools to count words and characters, and to generate slugs from strings.
 
@@ -54,8 +53,8 @@ let slug = toolkit.slugifier.slugifyModerate(text: text)
 
 > Generated with DocC
 
-Explore the full documentation here:  
-👉 [https://palmeiralabs.github.io/SwiftTextToolkit/](https://palmeiralabs.github.io/SwiftTextToolkit/)
+📦 Download offline documentation:  
+[SwiftTextToolkit.doccarchive](./docs/SwiftTextToolkit.doccarchive)
 
 ## 🧪 Running Tests
 
@@ -86,3 +85,7 @@ This means:
 - You use this package at your own risk.
 
 We recommend thorough testing before using it in critical projects.
+
+## Author
+
+Agustin Palmeira / PalmeiraLabs
